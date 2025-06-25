@@ -1,0 +1,9 @@
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/BilibiliApp.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/RESTfulAPI.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/UserApi.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/UserAuthApi.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/UserFollowingApi.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/UserMomentsApi.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/aspect/ApiLimitedRoleAspect.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/aspect/DataLimitedAspect.java
+/Users/qunce/Bilibili_Clone/bilibili/bilibili-api/src/main/java/com/example/bilibili/api/support/UserSupport.java
